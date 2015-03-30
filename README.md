@@ -2,6 +2,8 @@
 Technology Sharing
 
 =================================================
+'Serious'-Code		2015.04
+linux-pipe-and-subshell		2015.03
 single-page-application		2015.02
 webos-log-refactor		2014.10
 coding_gracefully		2014.07
